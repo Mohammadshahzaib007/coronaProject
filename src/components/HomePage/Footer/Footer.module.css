@@ -1,0 +1,17 @@
+.Footer {
+    background-color: rgba(0,0,0, .1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    padding: 5px;
+}
+
+.Shah {
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 20px 10px 20px 10px;
+    color: #A21FDB;
+    font-weight: 700;
+}
